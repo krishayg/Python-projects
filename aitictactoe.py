@@ -17,7 +17,6 @@ win_moves = [[l[0],l[1],l[2]],
               [ l[2],l[4],l[6]]]
 # Print directions for game
 print ("Are you ready to play tic-tac-toe against me?")
-print ("I am the computer, programmed with artificial intelligence and I know the best move in every situation, so this will be a challenge!")
 print ("\n You play as 'X' and I will be 'O'. You go first.")
 print ('\n\n\n\n\nType the number of the corresponding position to make a move.')
 print('''\n\n                          1 | 2 | 3 
